@@ -155,5 +155,8 @@ body {
   .title__accordion {
     text-align: center;
   }
+  .footer-attribute {
+   display: none; 
+  }
  
 }
